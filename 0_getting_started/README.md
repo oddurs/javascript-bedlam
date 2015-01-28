@@ -7,8 +7,8 @@ This workshop will prepare you for the upcoming modules in the course. You will 
 
 | Prefix | Workshop          | Time |
 |--------|-------------------|------|
-| 0.1      | [History of JavaScript](#0.1-history-of-javascript)   | 0:25 |
-| 0.2      | [How the Web Works](#0.2-how-the-web-works) | 2:30 |
+| 0.1      | [History of JavaScript](##0.1-history-of-javascript)   | 0:25 |
+| 0.2      | [How the Web Works](##0.2-how-the-web-works) | 2:30 |
 
 ## 0.1 History of JavaScript
 
