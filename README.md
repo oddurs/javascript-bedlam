@@ -10,11 +10,9 @@ In recent years, JavaScript has grown from a somewhat obscure and flawed mechani
 ## Structure
 We'll be splitting this workshop into ** individual workshops that will be accompanied by readings and, in some cases, problem sets. While this course has been organized in this manner and undesrstanding people's different backgrounds and experience, you should self-evalutate the amount of rigour you put into each section.
 
-| Prefix | Workshop          | Time |
-|--------|-------------------|------|
-| 0      | [Getting Started](/0_getting_started.md)   | 0:25 |
-| 1      | [Javascript Basics](/1_javascript_basics.md) | 2:30 |
-| 2      | Functions         |      |
+| Number | Workshop                   | Time |
+|--------|----------------------------|------|
+| 0      | [Getting Started](0_getting_started/README.md)| 0:25 |
 
 ## Contributing
 Your contributions to this project are highly encouraged. I ask that anyone wanting to contribute to the project follow the [contribution guidelines](/CONTRIBUTING.md). This makes the development of this course much easier.
