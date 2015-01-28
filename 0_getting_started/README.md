@@ -1,4 +1,4 @@
-#0 Getting Started
+#0. Getting Started
 [[Back to Javascript Bedlam]](/)
 
 This workshop will prepare you for the upcoming modules in the course. You will be introduced to the major tools and workflows that you will use for the coming weeks.
