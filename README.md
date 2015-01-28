@@ -1,5 +1,8 @@
+
 # Javascript Bedlam
 >A resource for cutting through the chaos JavaScript development
+
+__ATTENTION: This course is still in pre-development. Use appropriate caution.__
 
 ## Introduction
 In recent years, JavaScript has grown from a somewhat obscure and flawed mechanism of interacting with web browsers into one of the most diverse programming ecosystems that have ever existed. With the popularity of the web, interest in the language has exploded, and the landscape of libraries, modules, framworks and tools has expanded beyond anyone's expectations.
